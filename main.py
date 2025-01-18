@@ -5,7 +5,7 @@ import sys
 
 def main()->int:
 	msg:str = "hello world\n"
-	sys.stdout.write(msg)
+	print(msg)
 	return 0
 
 
